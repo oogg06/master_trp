@@ -1,0 +1,61 @@
+===================
+Tema 1:Introducción
+===================
+
+Máster de Profesorado en Secundaria
+===================================
+
+Introducción
+------------
+
+* Un estudiante oposita por un cierto **cuerpo**
+        * 590 Profesores de Secundaria
+        * 591 Profesores Técnicos de Formación Profesional
+        * 597 Maestros (no accesible para Vds.)
+        
+* Cada cuerpo tiene distintas **especialidades**
+        * 590: Especialidad 107 Informática
+        * 590: Especialidad 019 Tecnología
+        * 591: Especialidad 227 Sistemas y aplicaciones informáticas
+
+* Cada especialidad tiene la **atribución** a distintas asignaturas.
+        * El cuerpo 590, especialidad 019 puede impartir "Tecnología" en 1º de ESO o "Tecnología industrial" en Bachillerato.
+        * El cuerpo 590, especialidad 107 puede impartir "Bases de datos" en 1º de CFGS 
+          (Ciclos Formativos de Grado Superior), o "Informática" en 4º de ESO o "Tecnologías de la información" en Bachillerato
+        * El cuerpo 591 suele impartir docencia *exclusivamente* en Ciclos Formativos
+        
+        
+El acceso a la profesión (I)
+----------------------------
+
+* A día de hoy debería haberse aprobado el *Reglamento de ingreso en los cuerpos docentes*
+* Este reglamento establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
+* A día de hoy, los temarios para Tecnología e Informática **no se han renovado**
+        * Los temarios son solo una lista de temas que los opositores deben preparar por sí mismos. **No hay** apuntes, contenidos ni "libros oficiales" que estudiar
+        * Las listas de temas (temarios) se puede encontrar en las web del BOE y de sindicatos educativos
+        * Existen academias que preparan oposiciones y ofrecen los temas desarrollados y listos para estudiar
+        * También hay editoriales que desarrollan los temas y los venden al público.
+* Cabe destacar que el temario de Tecnología es muy diverso, aunque el de Informática es muy específico.
+
+
+El acceso a la profesión (II)
+-----------------------------
+
+* En torno al mes de Abril, la Junta publica en su DOCM la **convocatoria** de oposiciones.
+* En dicha convocatoria se indican las **reglas** y es muy importante leerlas bien.
+* En dicha convocatoria también está la solicitud que se debe rellenar, la cantidad a pagar como tasa, los plazos y otras informaciones de valor.
+* Una vez entregada la instancia junto con las tasas hay que esperar la publicación de las **listas de admitidos**. Si no se aparece en ellas suele haber un plazo para reclamar.
+* Si finalmente se es admitido en el proceso hay que permanecer atentos a las sedes de los tribunales. En años anteriores Tecnología tenía tribunales en todas las provincias, pero Informática no. Es importante reservar hotel tan pronto como se publiquen dichas localidades
+
+
+El acceso a la profesión (III)
+------------------------------
+* El día del examen es importante acudir con el DNI sin caducar y encontrar el instituto donde se realizarán las pruebas. Se aconseja **encarecidamente** localizar estas instalaciones con antelación.
+
+* El examen consta de **dos partes** que incluso podrían realizarse en días distintos o repartidos entre mañana y tarde. Estas dos partes se denominan como Parte A y Parte B
+        A) La parte A también se llama parte teoríca y consta de una serie de preguntas sobre el contenido del temario. 
+                * Se supone que habrá 10 o 15 preguntas pero no se especifica cuanto tiempo habrá para ellas.
+                * Las preguntas pueden tratar de cualquier cosa relacionada con cualquier aspecto del temario.
+                * El RD indica que serán preguntas "cortas" pero no especifica su longitud
+        B) La parte B
+ 

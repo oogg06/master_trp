@@ -1,0 +1,7 @@
+.PS
+scale=2.54
+define parte([
+        box 
+])
+
+.PE
