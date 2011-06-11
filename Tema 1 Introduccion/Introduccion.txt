@@ -57,5 +57,5 @@ El acceso a la profesión (III)
                 * Se supone que habrá 10 o 15 preguntas pero no se especifica cuanto tiempo habrá para ellas.
                 * Las preguntas pueden tratar de cualquier cosa relacionada con cualquier aspecto del temario.
                 * El RD indica que serán preguntas "cortas" pero no especifica su longitud
-        B) La parte B
+        B) La parte B se llama parte práctica y consiste en ejercicios relacionados con la especialidad
  
