@@ -1,0 +1,17 @@
+======================================
+Sesión 2:El sistema educativo-ESO
+======================================
+
+Máster de Profesorado en Secundaria
+===================================
+
+Introducción
+------------
+
+* La ESO tiene una serie de objetivos_ (RD 69/2007 de 29-5-2007 DOCM). En relación con ellos, las materias de Tecnología e Informática contribuyen al desarrollo de uno de ellos en especial, el **objetivo e)**: *[...] Adquirir una preparación básica en el campo de las tecnologías, especialmente las de la información y la comunicación*
+
+
+
+
+
+.. _objetivos: http://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=13722&locale=es_ES&textOnly=false

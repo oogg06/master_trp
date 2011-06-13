@@ -1,7 +1,14 @@
 .PS
 scale=2.54
-define parte([
-        box 
-])
-
+alto=5
+ancho=7
+right
+box width ancho ht alto "Especialidad"
+move
+move
+move
+move
+move
+box width ancho ht alto "Materia"
+line <-> from 2nd last box.e to last box.w "Atribuciones" ""
 .PE
