@@ -1,6 +1,6 @@
-===================
-Tema 1:Introducción
-===================
+=====================
+Sesión 1:Introducción
+=====================
 
 Máster de Profesorado en Secundaria
 ===================================
@@ -13,9 +13,9 @@ Introducción
         * 591 Profesores Técnicos de Formación Profesional
         
 * Cada cuerpo tiene distintas **especialidades**
-        * 590: Especialidad 107 Informática
-        * 590: Especialidad 019 Tecnología
-        * 591: Especialidad 227 Sistemas y aplicaciones informáticas
+		* 590: Especialidad 019 Tecnología
+		* 590: Especialidad 107 Informática
+		* 591: Especialidad 227 Sistemas y aplicaciones informáticas
 
 * Cada especialidad tiene la **atribución** a distintas asignaturas.
         * El cuerpo 590, especialidad 019 puede impartir "Tecnología" en 1º de ESO o "Tecnología industrial" en Bachillerato.
@@ -110,7 +110,7 @@ En líneas generales
 Fase de prácticas
 -----------------
 
-* En ella se da clase durante unas 8-13 horas semanales y el resto de horas a tareas del Plan de Prácticas del Centro.
+* En ella se da clase durante unas 8-13 horas semanales y el resto de horas se dedican a tareas del Plan de Prácticas del Centro.
 
 * Se debe hacer una memoria de alguno de los cursos y defenderla ante un tribunal.
 
@@ -128,4 +128,12 @@ Fase final
 	B) Parte B: preparación y exposición de actuaciones  ante un supuesto práctico relacionado con el tipo de alumnado del centro.
 	
 * Esta fase es totalmente nueva y no se conocen muchos detalles sobre como se va a desarrollar.
+
 * Se debe actuar ante un tribunal
+
+
+Resumen
+-------
+.. figure:: esquema.png
+
+Interrelaciones
