@@ -185,9 +185,48 @@ Informática (4º de ESO):Criterios de evaluación
 
 * Deben ser utilizados por el profesor para calificar a un alumno.
 
-* El profesor debe reflejar en la programación el peso que se le da a cada criterio,
+* El profesor debe reflejar en la programación el peso que se le da a cada criterio
 
-* Apunte: con la ley en la mano, las programaciones *deben ser redactadas por el jefe de departamento* (Reglamento Orgánico de Institutos de Enseñanza Secundaria, articulo 51)
+* Es obligatorio informar a los alumnos del peso, porcentaje o valoración que tendrá cada criterio.
+
+
+Informática (4º de ESO):Criterios de evaluación (II)
+----------------------------------------------------
+
+1. Instalar y configurar aplicaciones y desarrollar técnicas que permitan asegurar sistemas informáticos interconectados.
+
+2. Identificar los modelos de distribución de software y contenidos y adoptar actitudes coherentes con los mismos. [#sgae]_
+
+3. Obtener imágenes fotográficas, aplicar técnicas de edición digital a las mismas y diferenciarlas de las imágenes generadas por ordenador.
+
+4. Capturar, editar y montar fragmentos de vídeo con audio.
+
+.. [#sgae] ¿A qué cree que se refiere este artículo?
+
+Informática (4º de ESO):Criterios de evaluación (III)
+-----------------------------------------------------
+
+5. Participar activamente en redes sociales [#blogs]_
+
+6. Diseñar y elaborar presentaciones.
+
+7. Desarrollar contenidos para la red aplicando estándares de accesibilidad.
+
+8. Interconectar dispositivos móviles/inalámbricos o cableados para intercambiar información.
+
+
+.. [#blogs] Se refiere más a blogs que a Tuenti/Facebook
+
+Informática (4º de ESO):Criterios de evaluación 
+-----------------------------------------------
+
+
+
+* Apunte: no todo el mundo tiene claro quien debe realizar la programación:
+	* Reglamento Orgánico de Institutos de Enseñanza Secundaria, articulo 51: *las programaciones deben ser redactadas por el jefe de departamento*
+	* Reglamento Orgánico de Institutos de Enseñanza Secundaria, articulo 68.1: *cada departamento elaborará la programación didáctica de las enseñanzas que tiene encomendadas*
+	* En la mayor parte de institutos el encargado de hacer las programaciones es el profesor que vaya a impartir cada materia.
+	
 
 
 
