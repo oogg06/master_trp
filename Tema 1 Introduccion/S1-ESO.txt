@@ -98,7 +98,7 @@ Una opinión personal
 Informática (4º de ESO) 
 ---------------------------
 
-El currículo de la materia de Informática se desarrolla en la página 14681 del decreto de objetivos_
+El currículo de la materia de Informática se desarrolla en la página 14861 del decreto de objetivos_
 
 * Contribuye a la competencia "tratamiento de la información y competencia digital"
 * Se divide en los siguientes bloques
@@ -119,6 +119,10 @@ Informática (4º de ESO):Objetivos generales
 
         ¿Qué opinión nos producen estos objetivos?
         
+        
+
+
+
 Informática (4º de ESO):Contenidos del bloque I 
 -----------------------------------------------
 
@@ -129,12 +133,31 @@ Informática (4º de ESO):Contenidos del bloque I
 * Conexiones inalámbricas y dispositivos móviles.
 * Software libre.
 
+
++-----------------+-------------------------+
+|**Bloque 1**     | **Hardware y SS.OO**    |
++-----------------+-------------------------+
+| Bloque 2        | Multimedia              |
++-----------------+-------------------------+
+| Bloque 3        | Internet y redes        |
++-----------------+-------------------------+        
+
+
 Informática (4º de ESO):Contenidos del bloque II 
 ------------------------------------------------
 * Adquisición de imagen por escáner y tratamiento digital de imagen.
 * Captura de sonido y vídeo.
 * Hipertexto.
 * Diseño de presentaciones.
+
+
++-----------------+-------------------------+
+| Bloque 1        | Hardware y SS.OO        |
++-----------------+-------------------------+
+| **Bloque 2**    | **Multimedia**          |
++-----------------+-------------------------+
+| Bloque 3        | Internet y redes        |
++-----------------+-------------------------+        
 
 Informática (4º de ESO):Contenidos del bloque III 
 -------------------------------------------------
@@ -144,3 +167,27 @@ Informática (4º de ESO):Contenidos del bloque III
 * Educación a distancia.
 * Redes de intercambio y canales de distribución digitales.
 * Actitud positiva hacia las TIC.
+
+
++-----------------+-------------------------+
+| Bloque 1        | Hardware y SS.OO        |
++-----------------+-------------------------+
+| Bloque 2        | Multimedia              |
++-----------------+-------------------------+
+| **Bloque 3**    | **Internet y redes**    |
++-----------------+-------------------------+        
+
+
+Informática (4º de ESO):Criterios de evaluación 
+-----------------------------------------------
+
+* Un criterio de evaluación es un indicador de los aprendizajes que el alumno debe conseguir.
+
+* Deben ser utilizados por el profesor para calificar a un alumno.
+
+* El profesor debe reflejar en la programación el peso que se le da a cada criterio,
+
+* Apunte: con la ley en la mano, las programaciones *deben ser redactadas por el jefe de departamento* (Reglamento Orgánico de Institutos de Enseñanza Secundaria, articulo 51)
+
+
+
