@@ -1,7 +1,7 @@
 .PS
 scale=2.54
-alto=5
-ancho=7
+alto=3
+ancho=25
 right
 box width ancho ht alto "Especialidad"
 move

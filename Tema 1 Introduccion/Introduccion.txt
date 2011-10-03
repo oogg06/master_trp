@@ -1,5 +1,5 @@
 =====================
-Sesión 1:Introducción
+Tema 1:Introducción
 =====================
 
 Máster de Profesorado en Secundaria
@@ -134,6 +134,11 @@ Fase final
 
 Resumen
 -------
-.. figure:: esquema.png
 
-Interrelaciones
+* Un profesor aprueba una oposición por una cierta especialidad
+* Las leyes establecen que la educación se divide en cursos y materias
+* La conexión entre materias y especialidades del profesorado que pueden impartirla viene dada por las **atribuciones**
+
+.. figure:: esquema.svg
+   :align: center
+
