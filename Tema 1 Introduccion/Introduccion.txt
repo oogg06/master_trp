@@ -1,12 +1,32 @@
 =====================
-Tema 1:Introducción
+Tema 0:Introducción
 =====================
 
 Máster de Profesorado en Secundaria
 ===================================
 
-Introducción
-------------
+Temario de este módulo
+----------------------
+
+1. Planificación de Informática en ESO y PCPI
+     
+   a)  Planificación en ESO
+   b)  Planificación en PCPI
+     
+2. Planificación de Tecnologías de la Información en Bachillerato
+3. Planificación en Ciclos Formativos de Grado Medio
+
+   a)  Planificación de materias en 1º
+   b)  Planificación de materias en 2º
+   
+4. Planificación en Ciclos Formativos de Grado Superior
+
+   a)  Planificación de materias en 1º
+   b)  Planificación de materias en 2º        
+
+
+Sobre los tipos de profesor
+---------------------------
 
 * Un estudiante oposita por un cierto **cuerpo**
         * 590 Profesores de Secundaria
@@ -27,15 +47,17 @@ Introducción
 El acceso a la profesión (I)
 ----------------------------
 
-* A día de hoy debería haberse aprobado el *Reglamento de ingreso en los cuerpos docentes*
-* Este reglamento establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
+* A día de hoy se ha cancelado la aprobación del borrador del *Reglamento de ingreso en los cuerpos docentes* 
+* Este reglamento [#recuerde]_ establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
 * A día de hoy, los temarios para Tecnología e Informática **no se han renovado**
         * Los temarios son solo una lista de temas. **No hay** apuntes, contenidos ni "libros oficiales" que estudiar
         * Las listas de temas (temarios) se puede encontrar en las web del BOE y de sindicatos educativos
         * Existen academias que preparan oposiciones y ofrecen los temas desarrollados y listos para estudiar
         * También hay editoriales que desarrollan los temas y los venden al público.
-* Cabe destacar que el temario de Tecnología es muy diverso, aunque el de Informática es muy específico.
+* Cabe destacar que el temario de Tecnología es muy diverso, y el de Informática es muy específico.
 
+
+.. [#recuerde] Por favor, recuerde que las normas evolucionan contínuamente y que aquí solo se comenta el borrador en el que se ha trabajado.
 
 El acceso a la profesión (II)
 -----------------------------
@@ -49,17 +71,67 @@ El acceso a la profesión (II)
 
 El acceso a la profesión (III)
 ------------------------------
+
 * El día del examen es importante acudir con el DNI sin caducar y encontrar el instituto donde se realizarán las pruebas. Se aconseja **encarecidamente** localizar estas instalaciones con antelación.
 
-* El examen consta de **dos partes** que incluso podrían realizarse en días distintos o repartidos entre mañana y tarde. 
+* El examen (Reglamento LOE) consta de **dos pruebas** 
+  
+  * La primera prueba tiene dos partes (el orden puede variar)
 
-* La primera parte tiene es escrita y se subdivide en dos partes llamadas Parte A y Parte B
-        A) La parte A también se llama parte teoríca y consta de una serie de preguntas sobre el contenido del temario. 
-        B) La parte B se llama parte práctica y consiste en ejercicios relacionados con la especialidad
-* La segunda parte tiene más que ver con la didáctica y también se denomina "encerrona".
+    a) La parte A) consiste en ejercicios prácticos
+    b) La B) es un desarrollo de un tema de entre cuatro escogidos al azar.
+        
+  * La segunda prueba consiste en dos tareas:
 
-Los exámenes: La primera parte
-------------------------------
+    a) presentar una **programación**      
+    b) preparar y exponer una unidad didáctica de entre tres unidades de su programación o de entre tres temas del temario (recomendable elegir la primera opción)
+    
+* En principio este el sistema que se usará, a no ser que la nueva legislatura traiga cambios
+  
+* Hay un borrador con una estructura nueva que comentaremos a continuación
+
+El examen LOE
+-------------
+
+* Cada prueba se valora de 0 a 10 y hay que aprobar las dos. Después se hará la media
+
+* En la prueba 1 **se deben asignar al menos 3 puntos a cada parte**. Es decir, quizá CLM decida dar un 30% a la parte A) y un 70% a la parte B pero Madrid decida dar 35% y 65%. No se permite a ninguna administración dar pesos del 20% o del 80%
+
+* Además se debe sacar al menos un 25% de la valoración que se le dé a cada parte
+
+* La fase de oposición vale un 66% de la nota y la de concurso (idiomas, másteres, cursos, experiencia...) vale un 33%
+
+
+Un ejemplo de cálculo
+---------------------
+
+Suponiendo que una administración decide dar un 40% a la parte A) y un 60% a la parte B
+¿Qué ocurre con estos aspirantes?
+
++------+-------------+---------------+
+| Asp  | Parte a)    |   Parte b)    |
++------+-------------+---------------+
+| A1   |    2        |     6         |
++------+-------------+---------------+
+| A2   |    8        |     3,25      |
++------+-------------+---------------+
+| A3   |    3        |     7         |
++------+-------------+---------------+
+| A4   |    2,5      |     6         |
++------+-------------+---------------+
+
+Por ejemplo, el A1 tiene 2*0,4 + 6*0.8 = 0.8 + 4.8. La administración decidió que la primera parte contaba hasta 4 puntos así que el 25% de 4 puntos arroja que había que sacar un mínimo de 1 punto, por lo que **suspende**
+
+
+
+
+
+
+
+
+
+Borrador: La primera parte
+--------------------------
  
 * Sobre la parte A (teórica)
 * Se supone que habrá 10 o 15 preguntas pero no se especifica cuanto tiempo habrá para ellas.
@@ -72,8 +144,9 @@ Los exámenes: La primera parte
 * Cada parte se califica de 0 a 5 y **se debe sacar al menos un 2'5 para poder sumar ambas notas**
 * Si en total, las notas suman 5 o más se podrá pasar a la segunda parte: la "encerrona".
 
-Los exámenes: la segunda parte
-------------------------------
+Borrador: la segunda parte
+--------------------------
+
 * El opositor podrá elegir uno de entre **tres temas**
 * Una vez elegido se encierra al opositor en un aula con todo el material que desee llevarse y que deberá traer él.
 * El aspirante deberá exponer oralmente su desarrollo y explicaciones sobre ese tema.
@@ -84,8 +157,8 @@ Los exámenes: la segunda parte
 .. [#nota] La originalidad suele valorarse, Moodle y otros son **muy** recurrentes.
 
 
-Tras los exámenes: el concurso
-------------------------------
+Borrador: el concurso
+---------------------
 
 * Si se saca un 5 de media entre las dos partes se pasa a la fase de concurso.
 * En ella se valoran los cursos, idiomas, u otros méritos.
@@ -99,7 +172,7 @@ Tras los exámenes: el concurso
 En líneas generales
 --------------------
 
-* En este sistema **se accede al sistema de interinos con la nota de oposición**
+* En el borrador o en el sistema LOE **se accede al sistema de interinos con la nota de oposición**
 
 * A fecha de hoy, esto significaría que se eliminan ciertos privilegios que permitían que los aspirantes más antiguos permanecieran por delante incluso pese a tener menos nota.
 
