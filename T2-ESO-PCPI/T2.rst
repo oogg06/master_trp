@@ -1,0 +1,269 @@
+
+Tema 2:Programación en ESO/PCPI
+===============================
+
+2.1 Introducción
+----------------
+* Se denomina *currículo* al conjunto de contenidos que se deben impartir en una etapa educativa. Estos contenidos se estructuran y ordenan secuencialmente con el fin de proporcionar una coherencia global (en realidad hay tantas definiciones como autores y pedagogos).
+
+* Por otro lado se define la Didáctica como *la ciencia que estudia los métodos de enseñanza*
+
+* Los métodos que utilice cada profesor suelen plasmarse en su forma de planificar un curso. Aunque aquí no se estudien los métodos didácticos cabe destacar que los métodos evolucionan con el tiempo y los docentes también lo hacen a lo largo de su vida profesional y dicha evolución no siempre transcurre de forma paralela.
+
+* A pesar de que todo cambie la planificación de un curso es una tarea que cambia poco, por lo que lo que se explique en este curso puede ser útil por mucho tiempo.
+
+
+2.2 El currículo en España
+--------------------------
+
+* El primer modelo se estableció con la Ley General de Educación de 1970
+* La Ley de Ordenación General del Sistema Educativo (LOGSE) propuso un modelo radicalmente nuevo en 1990.
+* La Ley Orgánica de Calidad de la Educación (LOCE) modificó algunos elementos básicos de la LOGSE en el 2002.
+* La Ley Orgánica de Educación (LOE) del 2006 modificó y suprimió algunos parámetros de la LOCE.
+* En la actualidad la OCDE y la UE proponen un modelo basado en las *competencias básicas*
+
+2.3 La LOGSE
+------------
+Introdujo muchos elementos nuevos en el día a día de la enseñanza e incluso algunos de ellos permanecen hoy en día
+        1) Comprensividad
+        2) Atención a la diversidad: AC y Diversificación.
+        3) Distinto modelo de evaluación: Inicial, formativa y sumativa.
+        4) Promoción automática
+        5) Niveles de concreción curricular: Diseño Curricular de Base, Proyecto Curricular de Centro y **Programación de aula**
+        
+2.4 La LOCE
+-----------
+Modificó la LOGSE de la forma siguiente:
+                1) Sustituye la comprensividad por *itinerarios*
+                2) El DCB deja mucho menos margen a las Comunidades Autónomas
+                3) Reforma la selectividad y crea la PAU (Prueba de Acceso a la Universidad)
+                4) Introduce las evaluaciones externas
+
+2.5 La LOE
+----------
+La LOE define el currículo como <<conjunto de objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de las enseñanzas reguladas por la ley>>. Para la ESO, la LOE estipula que:
+        1) Los centros deben tener en cuenta la atención a la diversidad
+        2) Se deben adquirir las competencias básicas teniendo en cuenta especialmente las orales y las matemáticas
+        3) Las administraciones tienen el deber de proporcionar soluciones específicas a los alumnos con dificultades de aprendizaje
+        4) Al terminar 2º de ESO se debe realizar una evaluación de diagnóstico.
+        
+2.6 La LOE (II)
+----------------
+El profesorado, al hacer su programación debe tener en cuenta las siguientes situaciones
+        1) Alumnos con Necesidades Educativas Especiales (ACNEE's)
+        2) Dificultades específicas de aprendizaje (dislexias, dificultades motoras)
+        3) Altas capacidades intelectuales
+        4) Incorporaciones tardías al sistema
+        5) Condiciones personales del alumno
+        
+2.7 Los documentos de un centro
+-------------------------------
+* El Proyecto Educativo de Centro (PEC): es un proyecto a largo plazo
+* El Proyecto de Gestión del Centro (PGC): centrado en la gestión económica
+* Normas de Organización y Funcionamiento (NOF): regula la disciplina del alumnado en general, pero también la del profesorado
+* Programación General Anual: concreta los tres anteriores y especifica como se implantará y desarrollará durante el curso escolar.
+                        
+                        
+2.8 Elementos de una programación
+----------------------------------
+1. Referentes: Leyes orgánicas, PCC, Reales Decretos de Enseñanzas mínimas.
+           
+2. Elementos básicos: objetivos, competencias, secuenciación y criterios de evaluación.
+           
+3. Elementos metodológicos y organizativos: agrupamientos, espacios, medidas de atención a la diversidad...
+           
+4. Actividades de enseñanza-aprendizaje
+          
+5. Mecanismos de evaluación: criterios y procedimientos de evaluación. [#silohay]_
+          
+6. Mecanismos de autoevaluación: mecanismos para autoevaluarnos de acuerdo con el plan de evaluación del centro
+ 
+.. [#silohay] Si lo hubiera, si no puede hacerse como se desee.
+           
+           
+2.9 Referentes estatales (elemento 1)
+-------------------------------------
+Una programación debe estar relacionada con
+
+* La LOE como norma estatal (BOE 4-5-2006)
+* El RD 1631/2006 de Enseñanzas mínimas de Secundaria para el Estado
+
+
+
+2.10 Referentes autonómicos (elemento 1)
+----------------------------------------
+Toda esta normativa puede encontrarse en los enlaces sobre ESO_ y Bachillerato_
+
+* El Decreto 69/2007 que regula el currículo de la ESO para CLM.
+* Orden de 4-6-2007 que regula la evaluación en la ESO.
+* El Decreto 65/2008 que regula el currículo de Bachillerato en CLM.
+* Orden de 9-8-2008 que regula la evaluación en Bachillerato.
+* Orden de 4-6-2007 que regula la diversificación.
+
+
+.. _ESO:
+        http://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=13722&locale=es_ES&textOnly=false
+
+.. _Bachillerato:
+        http://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=40444&locale=es_ES&textOnly=false
+
+
+2.11 Referentes locales (elemento 1)
+------------------------------------
+En pocas palabras una programación didáctica debe tomar como referente local los siguientes documentos (¿Qué significaban estas siglas y qué documentos representaban?)
+
+* PEC
+* NOF
+* PGA
+
+Se debe destacar no obstante que en algunos centros no se solicita una referencia especial a dichos documentos. Otras referencias que se deben tomar son:
+
+* Características del alumnado a nivel individual y de grupo
+* Características del profesorado.
+
+2.12 Competencias (elemento 2)
+------------------------------
+La Programación Didáctica, tras enumerar el contenido y la composición de las ocho competencias básicas formuladas por los Decretos de Enseñanzas Mínimas (nueve en el caso de Castilla la Mancha con la inclusión de la Competencia Emocional) tiene que hacer visible la medida en la que el área o materia objeto de ésta contribuye a desarrollar en el alumno las Competencias Básicas
+
+Esto complica la labor diaria del docente, ya que se espera que ahora su labor en la enseñanza de por ejemplo CC.NN contribuya también, por ejemplo, a competencias como la lectura o las matemáticas.
+
+2.13 Objetivos (elemento 2)
+---------------------------
+
+Son más concretos que las competencias.
+
+* Por un lado el profesor debe indicar qué objetivos generales de etapa se desarrollan (afectivo, intelectual...)
+* Por el otro se deben indicar objetivos específicos de la materia.
+
+2.14 Secuenciación (elemento 2)
+-------------------------------
+
+* En este punto se deben tomar los contenidos de los Reales Decretos y organizarlos en **Unidades Didácticas**. Se permite que el profesor reordene los temas y los contenidos en la forma que considere conveniente.
+
+* Lo cierto es que prácticamente el 100% de las veces se recurre a libros que proporcionan secuenciaciones ya hechas y con una cierta coherencia
+
+* En los Ciclos Formativos, como por ejemplo los de Informática, ocurre a menudo que se introducen conceptos nuevos. Sin embargo, con la ley en la mano *no se pueden desechar los que hubiera en la ley*.
+
+
+2.15 Criterios de evaluación (elemento 2)
+-----------------------------------------
+
+* Se utilizan para determinar el nivel alcanzado por el alumno el desarrollo de los objetivos
+* Un ejemplo real para la materia "Planificación y administración de redes"
+        
+  a) Se han identificado los factores que impulsan la continua expansión y evolución de las redes de datos.
+  b) Se han diferenciado los distintos medios de transmisión utilizados en las redes.
+  c) Se han reconocido los distintos tipos de red y sus topologías.
+  d) Se han descrito las arquitecturas de red y los niveles que las componen.
+
+* ¿Que porcentaje corresponde a cada uno de tales criterios? Queda a criterio del docente.
+
+2.16 Criterios de evaluación (elemento 2)
+-----------------------------------------
+Se debe recordar que los elementos de la programación deben contextualizarse al contexto del centro. Tomando el ejemplo anterior de Ciclos Formativos contextualicemos dichos criterios.
+
+a) Se han identificado los factores que impulsan la continua expansión y evolución de las redes de datos.
+b) Se han diferenciado los distintos medios de transmisión utilizados en las redes.
+c) Se han reconocido los distintos tipos de red y sus topologías.
+d) Se han descrito las arquitecturas de red y los niveles que las componen.
+
+2.17 Criterios de evaluación (elemento 2)
+-----------------------------------------
+Por otra parte para la ESO/Bachillerato se contextualizan más otros elementos, ya que los criterios dejan menos margen para la adaptación. Algunos elementos a adaptar son:
+
+1. Los valores especificados en el PEC
+2. Programas educativos como el Plan de Lectura o Bilingüismo.
+3. Otros programas como PROA o Plan de Abandono
+
+Debe recordarse que todo esto se hace para conseguir hacer una formación lo más personalizada al entorno del alumno. ¿Recuerda los tres niveles de concreción curricular?
+
+
+2.18 Elementos de una programación
+----------------------------------
+
+En general, cada IES tiene su propio modelo de programación didáctica, aunque siempre nos encontraremos los siguientes apartados
+
+1. Introducción
+2. Contextualización
+3. Objetivos/competencias
+4. Metodología
+5. Actividades
+6. Evaluación del alumno
+7. Evaluación del profesor
+
+
+2.19 La introducción
+--------------------
+* Suele situar la materia dentro de la etapa
+* A veces cita los antecedentes en la docencia de la misma materia en cursos anteriores.
+* Suele tener un formato libre
+
+2.20 La contextualización
+-------------------------
+* Legislación aplicable
+* Características del centro y del grupo [#pista]_
+
+  * Ubicación
+  * Características del centro
+  * Sociología del alumnado y sus familias
+  * Organización del aula
+  * Proyectos en desarrollo
+ 
+
+.. [#pista] Pista: acuda al PEC
+
+2.21 Los objetivos y/o competencias
+-----------------------------------
+* Indicaremos como nuestra materia contribuye a desarrollar:
+  
+  * Las competencias básicas.
+  * Los objetivos generales del área para la etapa.
+  * Los objetivos del área para el curso.
+
+* Indicaremos la secuencia de contenidos
+* Tenga presente que puede modificar libremente el orden de los contenidos, aunque en Tecnología es un poco menos habitual.
+
+  
+2.22 La metodología
+-------------------
+1. ¿Qué criterios debemos tener en cuenta en cuanto al alumnado?
+   
+   a) ¿Desarrollo evolutivo?
+   b) ¿Sociología del alumno?
+   c) ¿Nivel alcanzado en años anteriores?
+
+2. ¿Cómo atender la diversidad en el alumnado? ¿Cómo tratar problemas de aprendizaje o ACNEE's?
+3. ¿Hay alguna estrategia de utilidad para la enseñanza?
+
+   a) ¿Desdobles? ¿quizá 2 profesores por aula?
+   b) ¿Agrupamientos flexibles?
+
+2.23 Las actividades
+--------------------
+* Es uno de los puntos más difíciles ya que con frecuencia *se programa sin conocer al alumnado*.
+* Normalmente se parte de un conjunto de actividades de nivel medio, aunque con frecuencia dicho conjunto se altera durante el curso
+* Se espera que se incluyan tanto actividades de refuerzo como de profundización [#superd]_
+* Aquí también se suelen incluir los recursos didácticos: proyectores, pizarras, kits de electrónica, etc...
+
+.. [#superd] No en vano, la legislación actual contempla el caso de alumnos superdotados.
+
+2.24 Evaluación del alumno
+--------------------------
+Debe incluir tres elementos fundamentales:
+
+1. Criterios de evaluación: ¿Qué vamos a comprobar que al alumno sabe hacer? ¿qué peso le vamos a dar?
+2. Criterios de calificación: ¿como se construye la nota final del alumno?
+3. Procedimientos de evaluación: ¿usaremos exámenes escritos? ¿orales? ¿demostraciones?
+
+
+2.25 Evaluación del profesor
+----------------------------
+**No tiene nada que ver con mecanismos externos de evaluación** [#paraeso]_, sino de indicadores que ofrecemos al lector [#cuidado]_
+
+* Demostramos haber relacionado nuestra programación con el PEC, demostramos contribuir a las competencias básicas.
+* Razonamos los motivos de nuestra secuenciación o relacionamos nuestra materia con objetivos de otros programas (Secciones Europeas, Planes de Lectura, ...)
+* Justificamos el uso de nuestra metodología
+
+.. [#paraeso] Para eso ya está la evaluación externa por parte de la Inspección
+
+.. [#cuidado] Su programación se la leerá más gente de la que Vd. cree
