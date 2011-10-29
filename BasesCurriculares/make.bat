@@ -1,1 +1,0 @@
-/c/Python26/scripts/rst2s5.py Bases.txt > Bases.html
