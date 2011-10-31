@@ -1,5 +1,5 @@
 set DIR=apuntes
-
+set PYTHON="C:\Python27\scripts\"
 
 del %DIR%\*.* /Q
 
