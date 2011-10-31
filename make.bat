@@ -23,6 +23,7 @@ copy T5-CFGS\*.rst %DIR%
 
 cd %DIR%
 "C:\Python27\Scripts\rst2newlatex.py" Apuntes.rst > Apuntes.tex
+
 pdflatex Apuntes.tex
 pdflatex Apuntes.tex
 start Apuntes.pdf

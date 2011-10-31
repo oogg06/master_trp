@@ -1,9 +1,11 @@
 Tema 1:Introducción
 ===================
 
-Master de secundaria
-
+[abstract]
+--
 En este tema introducimos de forma breve la estructura general de los exámenes de oposición, las variantes que podrían existir en el examen así como la estructura de las enseñanzas a modo de recordatorio
+--
+
 
 Temario de este módulo
 ----------------------
@@ -47,8 +49,7 @@ El acceso a la profesión (I)
 ----------------------------
 
 * A día de hoy se ha cancelado la aprobación del borrador del *Reglamento de ingreso en los cuerpos docentes* 
-* Este reglamento footnote:[Por favor, recuerde que las normas evolucionan contínuamente y que aquí solo se comenta el borrador en el que se ha trabajado.]
- establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
+* Este reglamento establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
 * A día de hoy, los temarios para Tecnología e Informática **no se han renovado**
         * Los temarios son solo una lista de temas. **No hay** apuntes, contenidos ni "libros oficiales" que estudiar
         * Las listas de temas (temarios) se puede encontrar en las web del BOE y de sindicatos educativos
@@ -56,7 +57,10 @@ El acceso a la profesión (I)
         * También hay editoriales que desarrollan los temas y los venden al público.
 * Cabe destacar que el temario de Tecnología es muy diverso, y el de Informática es muy específico.
 
-
+[WARNING]
+==================================================================================
+Por favor, recuerde que las normas evolucionan contínuamente y que aquí solo se comenta el borrador en el que se ha trabajado.
+==================================================================================
 
 El acceso a la profesión (II)
 -----------------------------
@@ -107,13 +111,13 @@ Suponiendo que una administración decide dar un 40% a la parte A) y un 60% a la 
 ¿Qué ocurre con estos aspirantes?
 
 
-[format="csv",frame="all"]
-|=========
-A1,2, 6
-A2,8,3.25
-A3,3,7
-A4,2.5,6
-|=========
+[frame="topbot", width="35%"]
+|===========
+|A1 |2 |6
+|A2 |8 |3.25
+|A3 |3 |7
+|A4 |2.5 |6
+|===========
 
 Por ejemplo, el A1 tiene 2*0,4 + 6*0.8 = 0.8 + 4.8. La administración decidió que la primera parte contaba hasta 4 puntos así que el 25% de 4 puntos arroja que había que sacar un mínimo de 1 punto, por lo que **suspende**
 
@@ -140,23 +144,28 @@ Borrador: la segunda parte
 * Una vez elegido se encierra al opositor en un aula con todo el material que desee llevarse y que deberá traer él.
 * El aspirante deberá exponer oralmente su desarrollo y explicaciones sobre ese tema.
 * Se puede usar un guión o presentación informática que deberá entregarse al terminar.
-* El RD indica que "Se valorará especialmente la incorporación de las TICs a la práctica docente."footnote:[La originalidad suele valorarse, Moodle y otros son **muy** recurrentes.]
+* El RD indica que "Se valorará especialmente la incorporación de las TICs a la práctica docente."
 * Se debe sacar al menos un 5 para superar la oposición
 
-
-
+[TIP]
+==================================================================================
+La originalidad en esta parte suele valorarse, Moodle y otros son **muy** recurrentes.
+==================================================================================
 
 Borrador: el concurso
 ---------------------
 
 * Si se saca un 5 de media entre las dos partes se pasa a la fase de concurso.
 * En ella se valoran los cursos, idiomas, u otros méritos.
-* El concurso produce otra nota que como máximo valdrá 3 puntos (30% de la nota final del concurso oposición) footnote:[Es importantísimo que se revise la puntuación que la Administración otorga ya que si no se reclama un error, se pierde puntuación en esta fase, lo que puede ser fatal.]
+* El concurso produce otra nota que como máximo valdrá 3 puntos (30% de la nota final del concurso oposición) 
 * El otro 70% sale de la nota de oposición.
 * Con todas estas notas, se ordena a los aspirantes.
 * Los primeros (si hay 22 plazas, los 22 primeros, p.ej) pasan la oposición.
 
-
+[TIP]
+==================================================================================
+Es importantísimo que se revise la puntuación que la Administración otorga ya que si no se reclama un error, se pierde puntuación en esta fase, lo que puede ser fatal.
+==================================================================================
 
 En líneas generales
 -------------------
@@ -203,17 +212,43 @@ Resumen
 * Las leyes establecen que la educación se divide en cursos y materias
 * La conexión entre materias y especialidades del profesorado que pueden impartirla viene dada por las **atribuciones**
 
-image::esquema.png[align=center]
+
+.Conexion entre especialidades y materias
+image::esquema.png[align="center"]
 
 Diagrama de atribuciones
 ------------------------
 
-image::atribuciones.png[align=center, title="Las atribuciones se regulan por R.D"]
+Puede haber varias especialidades que tengan especialidad sobre una misma materia. También puede ocurrir que solo una especialidad pueda impartir una cierta materia.
+
+.Las atribuciones se regulan por R.D
+image::atribuciones.png[align="center"]
    
 
 
 Los IES
 -------
+En los institutos es frecuente encontrar una jerarquía como esta. Los centros con jefes adjuntos (que "descargan" de trabajo) al jefe de estudios son minoría.
 
-image::jerarquia.png[align=center]
+* El director es el representante de la administración en el centro.
+* El jefe de estudios trata los temas relativos a la disciplina de los alumnos
+* El secretario nos ayudará con los asuntos económicos.
+* El jefe de departamento coordina las materias de la especialidad y nos representan en la Comisión de Coordinación Pedagógica (CCP), que es el organo que reúne al equipo directivo y a los jefes de departamento.
+
+.Jerarquía en los institutos
+image::jerarquia.png[align="center"]
    
+   
+   
+El sistema educativo
+--------------------
+Las etapas educativas son las siguientes
+
+.Transiciones entre etapas educativas
+image::Sistemaeducativo.png[align="center"]
+
+
+[IMPORTANT]
+==================================================================================
+Aunque la ley dice que solo se puede pasar a PCPI con 15 años en "situaciones excepcionales", es muy frecuente que se abuse de esta "excepcionalidad"
+==================================================================================
