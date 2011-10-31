@@ -1,54 +1,55 @@
-
 Tema 1:Introducción
-=====================
+===================
 
-1.1 Temario de este módulo
---------------------------
+[abstract]
+--
+En este tema introducimos de forma breve la estructura general de los exámenes de oposición, las variantes que podrían existir en el examen así como la estructura de las enseñanzas a modo de recordatorio
+--
 
-1. Introducción
-2. Planificación de Informática en ESO y PCPI
+
+Temario de este módulo
+----------------------
+
+. Introducción
+. Planificación de Informática en ESO y PCPI
+..  Planificación en ESO
+..  Planificación en PCPI
      
-   a)  Planificación en ESO
-   b)  Planificación en PCPI
-     
-3. Planificación de Tecnologías de la Información en Bachillerato
-4. Planificación en Ciclos Formativos de Grado Medio
-
-   a)  Planificación de materias en 1º
-   b)  Planificación de materias en 2º
+. Planificación de Tecnologías de la Información en Bachillerato
+. Planificación en Ciclos Formativos de Grado Medio
+..  Planificación de materias en 1º
+..  Planificación de materias en 2º
    
-5. Planificación en Ciclos Formativos de Grado Superior
+. Planificación en Ciclos Formativos de Grado Superior
+..  Planificación de materias en 1º
+..  Planificación de materias en 2º        
 
-   a)  Planificación de materias en 1º
-   b)  Planificación de materias en 2º        
 
-
-1.2 Sobre los tipos de profesor
--------------------------------
+Sobre los tipos de profesor
+---------------------------
 
 * Un estudiante oposita por un cierto **cuerpo**
-        * 590 Profesores de Secundaria
-        * 591 Profesores Técnicos de Formación Profesional
-        
+  - 590 Profesores de Secundaria
+  - 591 Profesores Técnicos de Formación Profesional
+   
 * Cada cuerpo tiene distintas **especialidades**
-		* 590: Especialidad 019 Tecnología
-		* 590: Especialidad 107 Informática
-		* 591: Especialidad 227 Sistemas y aplicaciones informáticas
+  - 590: Especialidad 019 Tecnología
+  - 590: Especialidad 107 Informática
+  - 591: Especialidad 227 Sistemas y aplicaciones informáticas
 
 * Cada especialidad tiene la **atribución** a distintas asignaturas.
-        * El cuerpo 590, especialidad 019 puede impartir "Tecnología" en 1º de ESO o "Tecnología industrial" en Bachillerato.
-        * El cuerpo 590, especialidad 107 "Bases de datos" en 1º de CFGS 
-          (Ciclos Formativos de Grado Superior), o "Informática" en 4º de ESO o "Tecnologías de la información" en Bachillerato
-        * El cuerpo 591 suele impartir docencia *exclusivamente* en Ciclos Formativos
+** El cuerpo 590, especialidad 019 puede impartir "Tecnología" en 1º de ESO o "Tecnología industrial" en Bachillerato.
+** El cuerpo 590, especialidad 107 "Bases de datos" en 1º de CFGS (Ciclos Formativos de Grado Superior), o "Informática" en 4º de ESO o "Tecnologías de la información" en Bachillerato
+** El cuerpo 591 suele impartir docencia *exclusivamente* en Ciclos Formativos
         
 
 
         
-1.3 El acceso a la profesión (I)
---------------------------------
+El acceso a la profesión (I)
+----------------------------
 
 * A día de hoy se ha cancelado la aprobación del borrador del *Reglamento de ingreso en los cuerpos docentes* 
-* Este reglamento [#recuerde]_ establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
+* Este reglamento establece que el acceso se hace por *concurso-oposición* (o mejor dicho "oposición-concurso")
 * A día de hoy, los temarios para Tecnología e Informática **no se han renovado**
         * Los temarios son solo una lista de temas. **No hay** apuntes, contenidos ni "libros oficiales" que estudiar
         * Las listas de temas (temarios) se puede encontrar en las web del BOE y de sindicatos educativos
@@ -56,11 +57,13 @@ Tema 1:Introducción
         * También hay editoriales que desarrollan los temas y los venden al público.
 * Cabe destacar que el temario de Tecnología es muy diverso, y el de Informática es muy específico.
 
+[WARNING]
+==================================================================================
+Por favor, recuerde que las normas evolucionan contínuamente y que aquí solo se comenta el borrador en el que se ha trabajado.
+==================================================================================
 
-.. [#recuerde] Por favor, recuerde que las normas evolucionan contínuamente y que aquí solo se comenta el borrador en el que se ha trabajado.
-
-1.4 El acceso a la profesión (II)
----------------------------------
+El acceso a la profesión (II)
+-----------------------------
 
 * En torno al mes de Abril, la Junta publica en su DOCM la **convocatoria** de oposiciones.
 * En dicha convocatoria se indican las **reglas**.
@@ -69,29 +72,28 @@ Tema 1:Introducción
 * Si finalmente se es admitido en el proceso hay que permanecer atentos a las sedes de los tribunales. En años anteriores Tecnología tenía tribunales en todas las provincias, pero Informática no. Es importante reservar hotel tan pronto como se publiquen dichas localidades
 
 
-1.5 El acceso a la profesión (III)
-----------------------------------
+El acceso a la profesión (III)
+------------------------------
 
 * El día del examen es importante acudir con el DNI sin caducar y encontrar el instituto donde se realizarán las pruebas. Se aconseja **encarecidamente** localizar estas instalaciones con antelación.
 
 * El examen (Reglamento LOE) consta de **dos pruebas** 
   
-  * La primera prueba tiene dos partes (el orden puede variar)
-
-    a) La parte A) consiste en ejercicios prácticos
-    b) La B) es un desarrollo de un tema de entre cuatro escogidos al azar.
+  - La primera prueba tiene dos partes (el orden puede variar)
+    . La parte A) consiste en ejercicios prácticos
+    . La B) es un desarrollo de un tema de entre cuatro escogidos al azar.
         
   * La segunda prueba consiste en dos tareas:
 
-    a) presentar una **programación**      
-    b) preparar y exponer una unidad didáctica de entre tres unidades de su programación o de entre tres temas del temario (recomendable elegir la primera opción)
+    . presentar una **programación**      
+    . preparar y exponer una unidad didáctica de entre tres unidades de su programación o de entre tres temas del temario (recomendable elegir la primera opción)
     
 * En principio este el sistema que se usará, a no ser que la nueva legislatura traiga cambios
   
 * Hay un borrador con una estructura nueva que comentaremos a continuación
 
-1.6 El examen LOE
------------------
+El examen LOE
+-------------
 
 * Cada prueba se valora de 0 a 10 y hay que aprobar las dos. Después se hará la media
 
@@ -102,30 +104,27 @@ Tema 1:Introducción
 * La fase de oposición vale un 66% de la nota y la de concurso (idiomas, másteres, cursos, experiencia...) vale un 33%
 
 
-1.7 Un ejemplo de cálculo
--------------------------
+Un ejemplo de cálculo
+---------------------
 
 Suponiendo que una administración decide dar un 40% a la parte A) y un 60% a la parte B
 ¿Qué ocurre con estos aspirantes?
 
-+------+-------------+---------------+
-| Asp  | Parte a)    |   Parte b)    |
-+------+-------------+---------------+
-| A1   |    2        |     6         |
-+------+-------------+---------------+
-| A2   |    8        |     3,25      |
-+------+-------------+---------------+
-| A3   |    3        |     7         |
-+------+-------------+---------------+
-| A4   |    2,5      |     6         |
-+------+-------------+---------------+
+
+[frame="topbot", width="35%"]
+|===========
+|A1 |2 |6
+|A2 |8 |3.25
+|A3 |3 |7
+|A4 |2.5 |6
+|===========
 
 Por ejemplo, el A1 tiene 2*0,4 + 6*0.8 = 0.8 + 4.8. La administración decidió que la primera parte contaba hasta 4 puntos así que el 25% de 4 puntos arroja que había que sacar un mínimo de 1 punto, por lo que **suspende**
 
 
 
-1.8 Borrador: La primera parte
-------------------------------
+Borrador: La primera parte
+--------------------------
  
 * Sobre la parte A (teórica)
 * Se supone que habrá 10 o 15 preguntas pero no se especifica cuanto tiempo habrá para ellas.
@@ -138,33 +137,38 @@ Por ejemplo, el A1 tiene 2*0,4 + 6*0.8 = 0.8 + 4.8. La administración decidió qu
 * Cada parte se califica de 0 a 5 y **se debe sacar al menos un 2'5 para poder sumar ambas notas**
 * Si en total, las notas suman 5 o más se podrá pasar a la segunda parte: la "encerrona".
 
-1.9 Borrador: la segunda parte
-------------------------------
+Borrador: la segunda parte
+--------------------------
 
 * El opositor podrá elegir uno de entre **tres temas**
 * Una vez elegido se encierra al opositor en un aula con todo el material que desee llevarse y que deberá traer él.
 * El aspirante deberá exponer oralmente su desarrollo y explicaciones sobre ese tema.
 * Se puede usar un guión o presentación informática que deberá entregarse al terminar.
-* El RD indica que "Se valorará especialmente la incorporación de las TICs a la práctica docente." [#nota]_
+* El RD indica que "Se valorará especialmente la incorporación de las TICs a la práctica docente."
 * Se debe sacar al menos un 5 para superar la oposición
 
-.. [#nota] La originalidad suele valorarse, Moodle y otros son **muy** recurrentes.
+[TIP]
+==================================================================================
+La originalidad en esta parte suele valorarse, Moodle y otros son **muy** recurrentes.
+==================================================================================
 
-
-1.10 Borrador: el concurso
---------------------------
+Borrador: el concurso
+---------------------
 
 * Si se saca un 5 de media entre las dos partes se pasa a la fase de concurso.
 * En ella se valoran los cursos, idiomas, u otros méritos.
-* El concurso produce otra nota que como máximo valdrá 3 puntos (30% de la nota final del concurso oposición) [#concurso]_
+* El concurso produce otra nota que como máximo valdrá 3 puntos (30% de la nota final del concurso oposición) 
 * El otro 70% sale de la nota de oposición.
 * Con todas estas notas, se ordena a los aspirantes.
 * Los primeros (si hay 22 plazas, los 22 primeros, p.ej) pasan la oposición.
 
-.. [#concurso] Es importantísimo que se revise la puntuación que la Administración otorga ya que si no se reclama un error, se pierde puntuación en esta fase, lo que puede ser fatal.
+[TIP]
+==================================================================================
+Es importantísimo que se revise la puntuación que la Administración otorga ya que si no se reclama un error, se pierde puntuación en esta fase, lo que puede ser fatal.
+==================================================================================
 
-1.11 En líneas generales
-------------------------
+En líneas generales
+-------------------
 
 * En el borrador o en el sistema LOE **se accede al sistema de interinos con la nota de oposición**
 
@@ -176,21 +180,21 @@ Por ejemplo, el A1 tiene 2*0,4 + 6*0.8 = 0.8 + 4.8. La administración decidió qu
 
 * La ordenación de las listas de interinos es un tema que aún se está estudiando.
 
-1.12 Fase de prácticas
-----------------------
+Fase de prácticas
+-----------------
 
 * En ella se da clase durante unas 8-13 horas semanales y el resto de horas se dedican a tareas del Plan de Prácticas del Centro.
 
 * Se debe hacer una memoria de alguno de los cursos y defenderla ante un tribunal.
 
-* Si se suspende solo hay otra oportunidad de aprobarla [#practicas]_
+* Si se suspende solo hay otra oportunidad de aprobarla footnote:[Es muy poco frecuente el suspender las prácticas.]
 
 * Se debe tener un tutor de prácticas, normalmente un profesor de la misma especialidad y departamento. Se puede autorizar a un tutor de una especialidad afín.
 
-.. [#practicas] En muy poco frecuente el suspender las prácticas.
 
-1.13 Fase final
----------------
+
+Fase final
+----------
 
 * Consta de dos partes
 	A) Parte A: se debe presentar una memoria didáctica
@@ -201,26 +205,50 @@ Por ejemplo, el A1 tiene 2*0,4 + 6*0.8 = 0.8 + 4.8. La administración decidió qu
 * Se debe actuar ante un tribunal
 
 
-1.14 Resumen
-------------
+Resumen
+-------
 
 * Un profesor aprueba una oposición por una cierta especialidad
 * Las leyes establecen que la educación se divide en cursos y materias
 * La conexión entre materias y especialidades del profesorado que pueden impartirla viene dada por las **atribuciones**
 
-.. figure:: esquema.png
-   :align: center
 
-1.14.1 Diagrama de atribuciones
--------------------------------
+.Conexion entre especialidades y materias
+image::esquema.png[align="center"]
 
-.. figure:: atribuciones.png
-   :align: center
+Diagrama de atribuciones
+------------------------
+
+Puede haber varias especialidades que tengan especialidad sobre una misma materia. También puede ocurrir que solo una especialidad pueda impartir una cierta materia.
+
+.Las atribuciones se regulan por R.D
+image::atribuciones.png[align="center"]
+   
 
 
-1.15 Los IES
-------------
+Los IES
+-------
+En los institutos es frecuente encontrar una jerarquía como esta. Los centros con jefes adjuntos (que "descargan" de trabajo) al jefe de estudios son minoría.
 
-.. figure:: jerarquia.png
-   :align: center
+* El director es el representante de la administración en el centro.
+* El jefe de estudios trata los temas relativos a la disciplina de los alumnos
+* El secretario nos ayudará con los asuntos económicos.
+* El jefe de departamento coordina las materias de la especialidad y nos representan en la Comisión de Coordinación Pedagógica (CCP), que es el organo que reúne al equipo directivo y a los jefes de departamento.
 
+.Jerarquía en los institutos
+image::jerarquia.png[align="center"]
+   
+   
+   
+El sistema educativo
+--------------------
+Las etapas educativas son las siguientes
+
+.Transiciones entre etapas educativas
+image::Sistemaeducativo.png[align="center"]
+
+
+[IMPORTANT]
+==================================================================================
+Aunque la ley dice que solo se puede pasar a PCPI con 15 años en "situaciones excepcionales", es muy frecuente que se abuse de esta "excepcionalidad"
+==================================================================================

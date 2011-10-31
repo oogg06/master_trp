@@ -1,3 +1,9 @@
+SET IMGS="..\img"
+copy %IMGS%\esquema.png
+copy %IMGS%\SistemaEducativo.png
+copy %IMGS%\Atribuciones.png
+copy %IMGS%\Jerarquia.png
+
 set OBJ=T1
 
 set PYTHON="C:\Python27\scripts\asciidoc"
@@ -14,21 +20,23 @@ set BLATEX=%ASC2% -b latex
 set SLI=%ASC2% -b slidy
 
 %SLI% %OBJ%.rst
-start %OBJ%.html
+
 
 %BLATEX% %OBJ%.rst
 
 
 
-
-
-pdflatex T1.tex
-pdflatex T1.tex
+pdflatex %OBJ%.tex
+pdflatex %OBJ%.tex
 
 del *.log
 del *.aux
 del *.idx
 del *.out
-rem del *.tex
+del *.tex
+mkdir html
+move *.png html
+move *.html html
+start html\%OBJ%.html
 
-rem start %OBJ%.pdf
+start %OBJ%.pdf
