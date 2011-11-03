@@ -94,7 +94,7 @@ En general, cada IES tiene su propio modelo de programación didáctica, aunque si
 . Contextualización
 . Objetivos/competencias/contenidos
 . Metodología
-. Actividades
+. Actividades/Unidades didácticas
 . Evaluación del alumno
 . Evaluación del profesor           
 
@@ -311,21 +311,18 @@ Una programación de ESO (III:Objetivos)
 
 Extraído de RD 69/2007 de currículo en la ESO
 
-[quote]
-------------------------------------------------------------------------------------------
-1. Utilizar y mejorar el funcionamiento de un ordenador aislado o en red...
-2. Buscar y seleccionar recursos...
-------------------------------------------------------------------------------------------
+[quote, RD 69/2007, BOE]
+Utilizar y mejorar el funcionamiento de un ordenador aislado o en red..., buscar y seleccionar recursos...
+
 
 En relación con las competencias (cortado y pegado)
 
 
-[quote]
-------------------------------------------------------------------------------------------
+[quote,RD 69/2007, BOE]
 Esta materia contribuye al desarrollo de todas las competencias básicas pero se
-identifica especialmente con la competencia 
-"tratamiento de la información y competencia digital"
-------------------------------------------------------------------------------------------
+identifica especialmente con la competencia "tratamiento de la información y competencia digital"
+
+
 
 Una programación de ESO (III bis:Contenidos)
 --------------------------------------------
@@ -342,11 +339,95 @@ En este ejemplo impartiremos las unidades didácticas siguientes
 . Software libre
 . Introducción a la programación
 
+Una programación de ESO (IV:Metodología)
+----------------------------------------
 
+Podemos elegir varias posibilidades
+
+* Si del análisis del contexto hemos deducido que tal vez en el grupo hay muchos alumnos que prefieren la autonomía, tal vez podamos elegir una metodología en la que el alumno trabaje por sí sólo a partir de tareas que deba completar.
+
+** Dentro de ella se puede optar por tareas "cerradas" donde el alumno debe seguir los pasos primero y explorar después.
+** O elegir tareas "abiertas" que permitan explorar el entorno, programa o herramienta para despues hacer un ejercicio.
+
+* Si los alumnos aún no han alcanzado una cierta madurez quizá convenga más elegir una metodología más basada en seguir las instrucciones del profesor.
+
+* En ocasiones también puede funcionar la metodología basada en el "alumno-tutor" donde los más adelantados ayuden a los más rezagados.
 
   
+¿Puede señalar ventajas o inconvenientes de cada una?
+
+
+Una programación de ESO (V:Actividades y U.D)
+---------------------------------------------
+
+* Las actividades se enmarcan en Unidades Didácticas.
+* Las U.D son propuestas de trabajo en el aula donde se indica un pequeño conjunto de objetivos, competencias, métodología, *tareas a realizar*
+* Normalmente, los libros y las guías del profesor suelen proporcionar actividades bastante buenas. Sin embargo, también suele ser necesario crear actividades propias o extraídas de distintos sitios.
+
+Una programación de ESO (V:Actividades y U.D)
+---------------------------------------------
+En una U.D debemos incluir al menos, los siguientes elementos:
+
+. Título, etapa, curso, materia.
+. Temporalización.
+. Justificación.
+. Relación con otras unidades.
+. Objetivos y competencias(normalmente un subconjunto de la programación).
+. Contenidos
+	.. Contenidos procedimentales
+	.. Contenidos conceptuales
+	.. Contenidos actitudinales
+. Metodología
+. Recursos necesarios (proyector, ordenadores...)
+. Tareas a realizar
+. Criterios de evaluación
+	
+	
+Una programación de ESO (VI:Evaluación del alumno)
+---------------------------------------------------
+
+* Los criterios de evaluación son lo que queremos comprobar en los alumnos. Son cosas que deben conocer o saber hacer
+
+* Los criterios de calificación explican como se construye la nota, p.ej:
+
+		** La nota del tema 1 comprobar los criterios a), b) y c). En el examen se pondrá un 40% de preguntas/problemas del a), un 30% del b) y un 30% del c
+		** Se descontará 0,1 por cada falta.
+		** La nota del trimestre será un 75% de los exámenes, un 15% de trabajos o prácticas un 5% del cuaderno y un 5% de actitud.
+		
+	
+[WARNING]
+======================================================
+Los criterios de evaluación y calificación
+son el principal elemento que alumnos/padres
+intentan invalidar para conseguir aprobar. Por favor
+revise bien que sus criterios son los establecidos
+legalmente y que los porcentajes que ha elegido
+tienen cierto sentido
+======================================================
+
+Una programación de ESO (VII: Evaluación del profesor)
+------------------------------------------------------
+Hay diversas alternativas
+
+. Si hay un plan de calidad, es posible que se haya establecido un mecanismo para la auto-evaluación
+. Si no lo hay podemos utilizar cualquier criterio que creamos apropiado. También podemos combinarlos como deseemos.
+	.. Cantidad de actividades que hemos dejado sin impartir
+	.. Número de aprobados, número de sobresalientes.
+	.. Comparación entre la media del alumno en nuestra materia y la media en otras materias
+	... Cualquier otro que Vd. considere apropiado.
+	
+[TIP]
+==============================================================================
+La Consejería de Educación convoca anualmente evaluaciones externas
+de carácter voluntario. Suelen servir para acceder al puesto de director y
+para solicitar "años sabáticos" (aunque esto último parece haber desaparecido).
+Consulte el DOCM de 25-12-2008 sobre ámbitos, dimensiones e indicadores
+===============================================================================
 
 
 
 
+Los PCPI
+--------
 
+Los *P*rogramas de *C*ualificación *P*rofesional *I*nicial
