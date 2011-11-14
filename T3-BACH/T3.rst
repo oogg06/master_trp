@@ -117,3 +117,56 @@ Algunas competencias desarrolladas
 * Competencia emocional: el profesorado debe ayudar a desarrollar
 		** Madurez
 		** Adecuado auto-concepto de sí mismo
+		
+Contenidos (Electrotecnia)
+--------------------------
+
+
+. Conceptos y fenómenos eléctricos básicos y medidas electrotécnicas
+	.. Magnitudes, intensidad, resistencia...
+	.. Condensadores
+	.. Corriente continua y alterna
+. Conceptos y fenómenos electromagnéticos
+	.. Imanes y campo magnético
+	.. Inducción electromagnética
+. Circuitos y máquinas eléctricos
+	.. Análisis de circuitos en continua.
+	.. Corriente alterna. Impedancia
+	.. Transformadores y rendimiento
+
+Objetivos (Tecnología Industrial I)
+------------------------------------
+. Adquirir los conocimientos necesarios y emplear éstos y los adquiridos en otras áreas para la comprensión y análisis de máquinas y sistemas técnicos.
+. Comprender el papel de la energía.
+. Comprender y explicar cómo se organizan y desarrollan procesos tecnológicos concretos
+. Analizar de forma sistemática aparatos
+	
+Contenidos (Tecnología Industrial I)
+------------------------------------
+	
+	
+Metodología (todas las materias del Bach.)
+------------------------------------------
+En este apartado, se espera que el profesorado actúe a un nivel distinto.
+
+* En ESO se hace mucho énfasis en las características del alumnado y/o su entorno
+* En PCPI se esperaba que pudiésemos contribuir a mejor el concepto del alumno sobre sí mismo
+* En el Bachillerato se deben utilizar métodos que potencien la autonomía y desarrollen la madurez
+
+	** Actividades diversas
+		*** Trabajos individuales
+		*** Examenes menos teóricos y más basados en problemas.
+		*** Los problemas deben ser además más diversos, con modificaciones que exploren todas las variedades y combinaciones.
+	** Herramientas más avanzadas:
+		*** Simuladores de circuitos
+		*** Hojas de cálculo para funciones de respuesta
+
+Evaluación del alumnado (Electrotecnia)
+---------------------------------------
+Deberemos comprobar que los alumnos saben:
+. Explicar cualitativamente el funcionamiento de circuitos destinados a producir luz, movimiento o calor
+. Seleccionar elementos o componentes de valor adecuado y conectarlos correctamente para formar un circuito, característico y sencillo.
+. Explicar las consecuencias de los fenómenos derivados de una alteración
+. Calcular y representar vectorialmente las magnitudes básicas de un circuito mixto simple
+
+Los profesores de Tecnología pueden utilizar el **taller** para verificar que los alumnos adquieren las habilidades necesarias.
