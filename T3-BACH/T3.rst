@@ -1,3 +1,119 @@
-===================================
 Tema 3:Programación en Bachillerato
 ===================================
+
+Introducción
+------------
+
+* Para entrar en Bachillerato se necesita el título de ESO que puede haberse obtenido por...
+	** ... haber terminado 4º de ESO.
+	** ... haber terminado un programa de diversificación.
+	** ... haber completado un PCPI de dos años y haber aprobado los módulos voluntarios.
+	** ... habiendo terminado un ciclo de grado medio.
+	
+* El Bachillerato se puede cursar...
+	** ... en régimen ordinario
+	** ... en turno vespertino/nocturno
+	** ... a distancia
+	
+Objetivos
+---------
+
+En líneas generales, los objetivos persiguen **desarrollar la madurez del alumno**
+
+. Ejercer la ciudadanía democrática
+. Consolidar la madurez
+. Fomentar la igualdad
+. Afianzar hábitos de lectura y estudio
+. Dominar la lengua castellana
+. Expresarse con fluidez en una lengua extranjera
+. y otros...
+
+Bachilleratos
+-------------
+
+Los bachilleratos son los siguientes:
+
+. Ciencias y Tecnología
+. Humanidades y Ciencias Sociales
+. Artes
+	.. Artes plásticas
+	.. Artes escénicas
+	
+[TIP]
+===========================
+No todos los institutos tienen todos los bachilleratos. De hecho, hay casos de alumnos que se cambian de instituto al terminar ESO para hacer el bachillerato que desean. Esto es especialmente habitual con el de "Artes plásticas" y aún más con el de "Artes escénicas"
+===========================
+
+Materias
+--------
+En los bachilleratos hay tres clases de materias
+
+* Comunes: todos los alumnos las cursan en todos los bachilleratos.
+* De modalidad: son las propias de la especialidad de bachillerato elegida.
+* Optativas: a elegir de entre un conjunto ofertado por el centro.
+
+
+Esquema horario
+---------------
+En el esquema siguiente puede verse el modelo de horario. Cabe destacar que **los profesores de Tecnología o Informática** no tienen ningúna materia obligatoria.
+
+* Los profesores de Tecnología sí tienen varias materias en el Bach. Tecnológico
+	** Tecnología Industrial I y II,Electrotecnia
+	** Tecnologías de la Información
+* Los de Informática solo tienen atribución en la optativa "Tec. de la Información"
+
+.Estructura del horario
+image::ComunesBach.png[align="center",scaledwidth=10%]
+
+Otros bachilleratos
+-------------------
+
+Los bachilleratos nocturno y a distancia son iguales que el bachillerato normal.
+
+* El nocturno puede organizarse en tres años o no (puede depender del centro)
+* El hecho a distancia se organiza en dos años y solo habla de adaptar la metodología a las condiciones propias del tipo de alumnado que asiste (mucho mayor que la media de edad en los IES)
+
+
+Estos bachilleratos a veces se utilizan como "rodeo" en el caso de alumnos que han estado más de 4 años en un bachillerato normal.
+
+
+Estructura de una programación
+------------------------------
+Sobre la introducción y contextualización ya conocemos algunas técnicas para desarrollar dichos puntos.
+
+. Introducción
+. Contextualización
+. Objetivos/competencias/contenidos
+. Metodología
+. Actividades/Unidades didácticas
+. Evaluación del alumno
+. Evaluación del profesor           
+
+
+Competencias del bachillerato
+-----------------------------
+Se dividen en dos grupos
+
+* Competencias comunes:
+	** Comunicación lingüística
+	** Tratamiento de la información
+	** Competencia social y ciudadana
+	** Autonomía y espíritu emprendedor
+	** Competencia emocional (propia de CLM)
+* Competencias específicas
+	** Competencia científica y tecnológica.
+	** Competencia social y científica.
+	** Competencia cultural y artística
+
+Algunas competencias desarrolladas
+----------------------------------
+
+* Competencia social
+	** Se espera que el alumnado desarrolle **habilidades personales** para que sepa **resolver conflictos** sin recurrir a violencia
+	* Que comprenda el funcionamiento de los sistemas democráticos y ejerza el voto con responsabilidad
+	
+* Autonomía y espíritu emprendedor: intenta fomentar el auto-empleo a largo plazo.
+
+* Competencia emocional: el profesorado debe ayudar a desarrollar
+		** Madurez
+		** Adecuado auto-concepto de sí mismo
