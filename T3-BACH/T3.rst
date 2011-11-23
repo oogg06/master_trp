@@ -105,6 +105,12 @@ Se dividen en dos grupos
 	** Competencia social y científica.
 	** Competencia cultural y artística
 
+[TIP]
+==================================
+No todas las comunidades desarrollan sus bachilleratos
+en formato "competencias"
+==================================
+
 Algunas competencias desarrolladas
 ----------------------------------
 
@@ -134,8 +140,20 @@ Contenidos (Electrotecnia)
 	.. Corriente alterna. Impedancia
 	.. Transformadores y rendimiento
 
-Objetivos (Tecnología Industrial I)
-------------------------------------
+Criterios  (Electrotecnia)
+---------------------------
+Deberemos comprobar que los alumnos saben:
+
+. Explicar cualitativamente el funcionamiento de circuitos destinados a producir luz, movimiento o calor
+. Seleccionar elementos o componentes de valor adecuado y conectarlos correctamente para formar un circuito, característico y sencillo.
+. Explicar las consecuencias de los fenómenos derivados de una alteración
+. Calcular y representar vectorialmente las magnitudes básicas de un circuito mixto simple
+
+Los profesores de Tecnología pueden utilizar el **taller** para verificar que los alumnos adquieren las habilidades necesarias.
+
+Objetivos (Tecnología Industrial I y II)
+----------------------------------------
+
 . Adquirir los conocimientos necesarios y emplear éstos y los adquiridos en otras áreas para la comprensión y análisis de máquinas y sistemas técnicos.
 . Comprender el papel de la energía.
 . Comprender y explicar cómo se organizan y desarrollan procesos tecnológicos concretos
@@ -143,8 +161,79 @@ Objetivos (Tecnología Industrial I)
 	
 Contenidos (Tecnología Industrial I)
 ------------------------------------
+Se organizan en estos bloques:
+
+. El proceso y los productos de la tecnología
+. Materiales
+. Elementos de máquinas y sistemas
+. Procedimientos de fabricación
+. Energías.
+
+
+
+Criterios (Tecnología Industrial I)
+------------------------------------
+* Calcular, a partir de información adecuada, el coste energético del funcionamiento ordinario de un local
+* Describir los materiales más habituales en su uso técnico
+* Describir el probable proceso de fabricación de un producto
+* Identificar los elementos funcionales, estructuras y mecanismos de una máquina real.
 	
 	
+Contenidos (Tecnología Industrial II)
+-------------------------------------
+. Materiales
+	.. Corrosión
+	.. Reciclaje
+. Máquinas
+	.. Motores térmicos
+	.. Motores eléctricos
+	.. Frigorífico y bomba de calor
+. Automatismos
+. Circuitos neumáticos
+. Control de automatismos
+	.. Puertas lógicas
+	.. Circuitos secuenciales
+	.. Programación
+	
+Criterios (Tecnología Industrial II)
+------------------------------------
+* Seleccionar materiales adecuados
+* Entender parámetros de una máquina
+* Identificar partes de un motor térmico y eléctrico
+* Analizar la composición de una máquina
+
+Objetivos (Tec. de la Inf)
+--------------------------
+
+. Conocer la incidencia de las tecnologías de la información en la sociedad y en el propio ámbito del conocimiento.
+. Familiarizarse con los elementos básicos de la interfaz hombre-máquina.
+. Valorar el papel que éstas tecnologías desempeñan en los procesos productivos, industriales y científicos con sus repercusiones económicas y sociales.
+. Conocer los fundamentos físicos y lógicos de los sistemas ligados a estas tecnologías.
+. Manejar las estrategias que permiten convertir estas tecnologías en instrumentos de diseño, simulación, fabricación y control.
+. Utilizar estas herramientas específicas para mejorar la capacidad de interpretación espacial, visual, lógica, matemática y creativa del alumno o alumna.
+
+Contenidos (Tec. de la Inf.)
+----------------------------
+
+Se organizan en tres bloques
+
+. La sociedad de la información
+. Equipos informáticos, sistemas operativos, redes y seguridad.
+. Herramientas para el diseño Web.
+. Tratamiento de la información: hojas de cálculo y bases de datos.
+. Lenguaje de programación y control de procesos
+
+
+Criterios (Tec. de la Inf)
+--------------------------
+. Analizar y valorar las influencias de las tecnologías de la información
+. Identificar los distintos elementos físicos que componen el ordenador
+. Emplear herramientas software para el diseño de un sitio Web.
+. Emplear herramientas de análisis cuantitativo para extraer conclusiones de series de datos objetivos
+. Diseñar, actualizar y consultar la información de bases de datos relacionales
+. Conocer los fundamentos de las redes y aplicar técnicas de seguridad
+. Utilizar lenguajes de programación para la resolución de problemas.
+
 Metodología (todas las materias del Bach.)
 ------------------------------------------
 En este apartado, se espera que el profesorado actúe a un nivel distinto.
@@ -161,12 +250,141 @@ En este apartado, se espera que el profesorado actúe a un nivel distinto.
 		*** Simuladores de circuitos
 		*** Hojas de cálculo para funciones de respuesta
 
-Evaluación del alumnado (Electrotecnia)
----------------------------------------
-Deberemos comprobar que los alumnos saben:
-. Explicar cualitativamente el funcionamiento de circuitos destinados a producir luz, movimiento o calor
-. Seleccionar elementos o componentes de valor adecuado y conectarlos correctamente para formar un circuito, característico y sencillo.
-. Explicar las consecuencias de los fenómenos derivados de una alteración
-. Calcular y representar vectorialmente las magnitudes básicas de un circuito mixto simple
+Unidades didácticas (recordatorio)
+----------------------------------
+La estructura de las U.D suele ser la misma en las distintas etapas
 
-Los profesores de Tecnología pueden utilizar el **taller** para verificar que los alumnos adquieren las habilidades necesarias.
+. Título, etapa, curso, materia.
+. Temporalización.
+. Justificación.
+. Relación con otras unidades.
+. Objetivos y competencias(normalmente un subconjunto de la programación).
+. Contenidos
+	.. Contenidos procedimentales
+	.. Contenidos conceptuales
+	.. Contenidos actitudinales
+. Metodología
+. Recursos necesarios (proyector, ordenadores...)
+. Tareas a realizar
+. Criterios de evaluación
+
+Conceptos, procedimientos y actitudes
+-------------------------------------
+
+Este es un concepto "LOGSE". La LOE **no especifica que se deba hacer esta división** por lo que pueden ocurrir diversas cosas
+
+. En el examen de oposición, si se decide dividir los contenidos en procedimentales, actitudinales y conceptuales entonces se debería decir **claramente** que se sabe que la LOE no los divide, pero que se ha decidido hacer dicha división para una mayor claridad.
+
+. En los institutos es frecuente que se siga haciendo dicha división, pero por simple comodidad en unos casos o por inercia en otros.
+
+
+Criterios de evaluación
+-----------------------
+
+* Se recuerda que los criterios de evaluación son los conocimientos que se deben comprobar
+* Los criterios de calificación explican como se construye la nota
+	** Debe hacerlos públicos
+	** No podrá modificarlos una vez iniciado el curso.
+	** En segundo de bachillerato cobran especial importancia
+	
+Procedimientos de reclamación
+-----------------------------
+En líneas generales, un alumno que no esté satisfecho con su evaluación debe seguir el procedimiento siguiente
+
+. El propio profesor es el primero al que se debe reclamar, normalmente de forma oral.
+. Si no está satisfecho, deberá entregar un escrito en secretaría dirigido al director. Éste se pondrá en contacto con el jefe de departamento para revisar la documentación (exámenes y criterios). Se emitirá un informe con el resultado
+. Si no está satisfecho, el alumnado entregará un escrito en la Delegación de Educación dirigido al Inspector de Zona que cubra el Instituto. El examen y los criterios se entregarán a otros profesores de la materia que trabajen en un centro distinto.
+
+Consideraciones específicas para adultos
+----------------------------------------
+Hay dos grandes tipos:
+
+* Vespertino/nocturno
+	** Al menos 18 años
+	** Los menores deben tener un contrato (o ser deportistas de élite)
+* A distancia
+	** El acceso funciona igual (18 años, menores con contrato)
+	** "Se deben concretar las adaptaciones metodológicas"
+	** No hay límite de permanencia
+	** La tutoría cobra mucha relevancia
+
+Bachillerato nocturno
+---------------------
+
+* Puede organizarse en tres años y con 17-22 horas semanales
+* O en dos años pero con 16-22 horas semanales
+* Pueden pasar con más de dos suspensas
+* "Se deben hacer tres pruebas trimestrales" con dos finales (Junio y septiembre)
+
+
+Bachilleratos de artes
+----------------------
+* Su estructura es idéntica a los bachilleratos de "Ciencias" o "Letras", con la salvedad de dar acceso a estudios distintos
+
+	* Ciclos Formativos de Artes plásticas y diseño
+	* Grados relacionados con las artes plásticas
+	* Real Escuela Superior de Arte Dramático (RESAD)
+
+PAEG
+----
+
+Las Pruebas de Acceso a Enseñanzas de Grado regulan la entrada en facultades y escuelas. Tiene dos partes
+
+. Obligatoria. Se hace la media de:
+	.. Lengua
+	.. Historia ó Filosofía
+	.. Inglés
+	.. Materia de modalidad de 2º
+. Específica
+	.. El alumno puede elegir examinarse de hasta cuatro materias de modalidad
+	.. Se toman las dos mejores notas (con factores 0'1 y 0'2)
+	
+	
+[WARNING]
+================================
+La PAEG se aprueba si el 60% de la nota media de Bachillerato y el 40% de la PAEG dan 5 o más, con la condición de sacar al menos un 4 en la parte general. Despues se sumará la parte optativa, si la hay
+================================
+	
+
+
+PAEG para alumnos de FP
+-----------------------
+
+Los alumnos de FP ahora también puede entrar en los grados *en el mismo turno que los de Bachillerato*.
+
+* No se examinan de la parte general
+* La parte específica usa también factores de 0'1 y 0'2
+
+
+Se debe recordar que no todos los títulos de FP dan acceso a cualquier grado.
+
+PAEG para adultos
+-----------------
+
+* La parte general es distinta:
+	** Comentario de texto
+	** Lengua
+	** Inglés
+* La parte específica exige que el alumno se examine de dos materias de la rama que elija
+		
+.Lista de materias PAEG adultos
+[options="header"]
+|=========================================
+|Artes|Ciencias|Salud|Sociales|Ingeniería
+|Lit  | Biol   | Bio | Hist.  | Física
+|Geog | Física |Quim | Mat CS | Mat
+|H.Esp| Mat    | Mat | Geo    | Quim
+|H.Art| Quim   |     | Filo   | Dibujo T.
+|Dib.A| CC. Tie|     | Econ.  | CC Tie
+|Filo |        |     | Biolog | Tec. Indus
+|=========================================
+
+
+Resumen
+-------
+
+* En CLM el bachillerato también debe programarse por **competencias**, aunque en otros sitios podría no ser así.
+* Aunque los objetivos estén claramente determinados los objetivos "ocultos" que debería nombrar en cualquier tribunal es "desarrollo de la madurez", "fomento de la autonomía", etc...
+* En el fondo Tecnología e Informática tienen un papel pequeño en bachillerato.
+* Recuerde que hay otros bachilleratos y formas de acceso a la Universidad
+* Cualquier profesor que imparta Bachillerato debe tener en mente la PAEG (especialmente si programa algo de segundo).

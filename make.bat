@@ -30,6 +30,7 @@ copy T2-ESO-PCPI\*.rst %DIR%
 
 
 copy T3-Bach\*.rst %DIR%
+copy T3-Bach\*.png %DIR%
 
 
 copy T4-CFGM\*.png %DIR%

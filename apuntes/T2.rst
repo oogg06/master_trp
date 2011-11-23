@@ -556,3 +556,79 @@ Contenidos
 
 
 
+Metodología
+-----------
+En esta etapa se proporcionan **orientaciones** metodológicas.
+
+* Se pide romper con la dependencia y potenciar la autonomía.
+* Potenciar la motivación asociando experiencias pasadas con nuevos aprendizajes.
+* Refuerzo de sentimientos positivos.
+
+En general la enseñanza en grupos suele considerarse una tarea bastante complicada.
+
+Actividades (recordatorio)
+--------------------------
+La estructura de las U.D suele ser la misma en las distintas etapas
+
+. Título, etapa, curso, materia.
+. Temporalización.
+. Justificación.
+. Relación con otras unidades.
+. Objetivos y competencias(normalmente un subconjunto de la programación).
+. Contenidos
+	.. Contenidos procedimentales
+	.. Contenidos conceptuales
+	.. Contenidos actitudinales
+. Metodología
+. Recursos necesarios (proyector, ordenadores...)
+. Tareas a realizar
+. Criterios de evaluación
+
+Evaluación del alumno
+---------------------
+
+. Identificar elementos matemáticos presentes en la realidad, y aplicar los conocimientos matemáticos adquiridos en situaciones cotidianas.
+. Utilizar los números enteros, fracciones decimales y porcentajes sencillos, sus operaciones y propiedades para recoger, transformar e intercambiar información y
+resolver problemas relacionados con la vida diaria.
+. Respetar la jerarquía de las operaciones y la correcta aplicación de los signos en las diversas situaciones y operaciones.
+. Identificar y describir regularidades, pautas y relaciones en conjuntos de números, utilizar letras para simbolizar distintas cantidades y obtener el valor numérico de fórmulas sencillas.
+. Organizar e interpretar informaciones diversas mediante tablas y gráficas, e identificar relaciones de dependencia en situaciones cotidianas.
+
+y así hasta 20 criterios que se deben utilizar. ¿Qué le parece?
+
+Evaluación del alumno (II)
+--------------------------
+
+Los cursos 1º y 2º de PCPI no se evalúan de la misma forma
+* Los ámbitos no se organizan de la misma forma en 1º que en 2º
+* En algunos ámbitos las notas se componen a partir de dos notas. 
+* Puede que haya dos profesores para dos "trozos" del mismo ámbito y puede que no.
+* Los alumnos pueden suspender "Libre configuración" y "Autonomía personal" e ir a la FCT.
+
+[TIP]
+=================================================================================
+Para profesores de Tecnología: los alumnos **necesitan** aprobar este ámbito si desean obtener la ESO.
+=================================================================================
+
+
+Evaluación del profesor
+-----------------------
+
+De nuevo podemos acudir a los proyectos de calidad o al establecimiento personal de medidas que permitan auto-evaluarnos.
+
+* Temario cumplido
+* Porcentaje de aprobados
+* etc...
+
+
+Resumiendo
+----------
+* Los elementos de una programación se extraen en su mayor parte de la legislación correspondiente. Consulte los Reales Decretos de la materia que programa
+* Los departamentos suelen tener su propio modelo de programación "rellenable".
+* Compruebe los criterios de evaluación y calificación.
+* La programación en PCPI es más compleja. El desarrollo de los cursos también.
+* En caso de duda, puede consultarse al equipo directivo.
+
+
+
+
