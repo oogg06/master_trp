@@ -102,7 +102,7 @@ Resumen de los elementos formativos en FP
 * Criterios: nivel aceptable de consecución de una tarea.
 
 .Estructura general de los conceptos
-image::uc.png[align="center"]
+image::uc.png[align="center",scaledwidth="50%"]
 
 Procedimientos de acreditación
 ------------------------------
@@ -127,7 +127,7 @@ Se debe recordar el concepto de unidad de competencia como "moneda"
 
 [TIP]
 =========================
-¿Puede un profesor de la especialidad de Informática impartir "cursos del paro" de Informática?
+¿Puede un profesor de la especialidad de Informática planificar/impartir "cursos del paro" de Informática?
 =========================
 
 La FP reglada
@@ -148,4 +148,37 @@ Términos a recordar
 * Módulo: es lo mismo que una materia
 * Ciclo: son un conjunto de módulos que proporcionan un título (por ejemplo "TS en Desarrollo de Aplicaciones Multiplataforma)
 * Especialidad del profesorado: nombre que recibe un grupo de profesores de un cuerpo que han superado un examen específico que les habilita para impartir un conjunto de módulos relacionados con su especialidad. 
+
+Los ciclos formativos
+---------------------
+* Son programas educativos de un máximo de dos años (aún quedan algunos de un curso)
+* El primer curso dura un año escolar entero (3 trimestres, 32 semanas)
+* El segundo curso da acceso a la Formación en Centros de Trabajo (FCT)
+* Los alumnos pueden pasar de primero a segundo si aprueban el 75% de las horas o más.
+* La diferencia principal entre ellos es la siguiente:
+	** Los de grado medio otorgan cualificaciones de nivel 2.
+	** Los de grado superior otorgan cualificaciones de nivel 3.
+
+El proceso de la programación
+-----------------------------
+* En primer lugar, al comenzar el curso, nos asignarán una serie de módulos (si estamos en FP) o de materias (si estamos en otras etapas).
+* Se necesitará en todo momento la legislación, por lo que conviene tenerla a mano.
+* La programación debe empezar situando la materia en su contexto:
+	** Profesor
+	** Etapa educativa y curso
+	** Sociología del centro
+* Se deben enumerar los objetivos de dicha materia/módulo así como los contenidos mínimos
+* Se deben 
+
+
+Herramientas para programar
+---------------------------
+
+* Las herramientas de planificación de proyectos son muy útiles en el proceso de programación (GanttProject o MS-Project).
+	** Permiten estipular las precedencias
+	** Permiten indicar tareas (unidades didácticas) que se dividen en subtareas (sesiones)
+
+* Tomaremos primero los contenidos, los dividiremos en unidades didácticas (entre 8 y 14) y repartiremos el tiempo entre esas 32 semanas (o 22 en el caso de segundo curso de ciclos)
+
+* Despues se deben tomar los 
 
