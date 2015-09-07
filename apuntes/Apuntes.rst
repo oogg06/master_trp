@@ -1,5 +1,6 @@
-Máster para Profesorado de Enseñanza Secundaria
-===============================================
+
+= Máster para Profesorado de Enseñanza Secundaria = 
+
 
 
 include::T1.rst[]

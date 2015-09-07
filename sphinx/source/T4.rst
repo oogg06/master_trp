@@ -1,0 +1,184 @@
+Tema 4:Programación en Ciclos Formativos
+========================================
+
+
+[abstract]
+--
+En este tema explicamos como funciona la Formación Profesional en nuestro sistema educativo y abordamos el proceso de programación en un ciclo formativo. También se explica la terminología asociada a la FP y se desarrolla la estructura de los ciclos formativos relacionados con la familia profesional "Informática y comunicaciones"
+--
+
+Introducción
+------------
+
+* Los ciclos formativos son el principal lugar de trabajo de los profesores del cuerpo de Secundaria, especialidad Informática y de los del cuerpo de Profesores Técnicos, especialidad "Sistemas y aplicaciones informáticas".
+
+* Los profesores de Tecnología no imparten en ciclos formativos
+
+* La formación profesional es un mundo complejo que se abordará en este tema a fin de entender la terminología y conceptos que implica hacer una programación para un ciclo.
+
+La FP
+-----
+Técnicamente se define como
+
+[quote,Ley Orgánica de Educación, Boletín oficial del estado]
+el conjunto
+de acciones formativas que capacitan para el desempeño
+cualificado de las diversas profesiones, el acceso al
+empleo y la participación activa en la vida social, cultural
+y económica
+
+Sin embargo debe considerarse que la formación profesional **también existe fuera del mundo educativo**
+
+El sistema nacional de cualificaciones
+--------------------------------------
+
+* Es el mecanismo que usa el Estado para ofertar una FP **integrada**.
+* Probablemente, su norma más conocida es el http://www.educacion.gob.es/educa/incual/ice_CualCatalogo.html[Catálogo nacional de cualificaciones], publicado por el INCUAL.
+	** Se llama cualificación a un pequeño conjunto de conocimientos relacionados directamente con la actividad profesional
+	** Se actualizan contínuamente
+	** Absolutamente **todas las comunidades** utilizan el catálogo del INCUAL
+
+	
+Las cualificaciones
+-------------------
+Se llama cualificación a un pequeño conjunto de conocimientos relacionados directamente con la actividad profesional
+
+* Las cualificaciones pueden ser de distintos niveles
+	. De nivel I 
+	. De nivel II 
+	. De nivel III 
+* Las cualificaciones pueden encontrarse en la http://www.educacion.gob.es/educa/incual/ice_CualCatalogo.html[página web del INCUAL].
+* El estado define las competencias como 
+
+[quote, RD 1128/2003,BOE]
+"el conjunto de competencias
+profesionales con significación para el empleo"
+	
+[IMPORTANT]
+=======================================
+¿Donde cree que se sitúan las enseñanzas de grado?, ¿o las enseñanzas de máster y doctorado tal como las regula el plan Bolonia? 
+=======================================	
+	
+
+Las Unidades de Competencia
+---------------------------
+
+[quote, RD 1128/2003,BOE]
+Son el agregado mínimo de
+competencias profesionales, susceptible de reconocimiento
+y acreditación parcial
+
+Cada cualificación consta de una serie de unidades de competencia asociadas. Así por ejemplo, para la UC IFC080_3 "Programación con lenguajes orientados a objetos y bases de datos relacionales" las UC asociadas son
+
+. UC 0223_3: Configurar y explotar sistemas informáticos.
+. UC 0226_3: Programar bases de datos relacionales.
+. UC 0227_3: Desarrollar componentes software en lenguajes de programación orientados a objetos.
+	
+[WARNING]
+==================================
+La unidad de competencia está diseñada para ser la "moneda de cambio" entre los distintos sistemas.
+==================================
+
+
+Los conceptos asociados a las UC
+--------------------------------
+Fundamentalmente son dos **"realizaciones profesionales"** y **"criterios de realización"**
+
+* Las realizaciones se refieren al comportamiento esperado. Una UC tiene varias realizaciones que "refinan un poco más" el concepto de UC, que suele ser bastante abstracto.
+* Los criterios indican el nivel mínimo aceptable para dicho comportamiento. Cada realización suele tener varios criterios. 
+
+[TIP]
+================
+Por fortuna, los nuevos títulos que van surgiendo han simplificado su terminología legislativa, pero es muy recomendable conocer estos vocablos. Aparte de eso, aunque las UC usan el término "Criterio de realización" los títulos modernos usan "Criterio de evaluación".
+================
+
+
+
+Resumen de los elementos formativos en FP
+-----------------------------------------
+* Cualificación: conocimientos relacionados entre sí y relacionados con un empleo.
+* Unidad de competencia: subconjunto utilizado para el reconocimiento
+* Realizaciones: sub-subconjunto que detalla las tareas.
+* Criterios: nivel aceptable de consecución de una tarea.
+
+.Estructura general de los conceptos
+image::uc.png[align="center",scaledwidth="50%"]
+
+Procedimientos de acreditación
+------------------------------
+
+* El programa Acredita-T
+
+* La acreditación es el procedimiento que permite que una persona sea "evaluada" por la administración para obtener una o más unidades de competencia a partir de su experiencia laboral. El camino va desde el mundo laboral hacia el sistema educativo
+
+* La convalidación es el proceso por el cual un alumno solicita que le sea aprobado un módulo (materia) al haber aprobado un módulo similar.
+
+
+Los sistemas de FP
+------------------
+
+. FP reglada: la impartida en los centros educativos.
+. FP ocupacional: preparan para acceder a una ocupación.
+. FP continua: dirigida a trabajadores en activo.
+
+Cuando se habla de FP se suele hablar de la **reglada** pero como hemos existe un mecanismo para el tránsito entre sistemas (la UC).
+
+Se debe recordar el concepto de unidad de competencia como "moneda"
+
+[TIP]
+=========================
+¿Puede un profesor de la especialidad de Informática planificar/impartir "cursos del paro" de Informática?
+=========================
+
+La FP reglada
+-------------
+
+Se imparte a tres niveles:
+
+. Módulos "obligatorios" de los PCPI
+. Ciclos formativos de Grado Medio
+. Ciclos formativos de Grado Superior
+
+.Transiciones dentro del sistema
+image::SistemaEducativo.png[align="center"]
+
+Términos a recordar
+-------------------
+
+* Módulo: es lo mismo que una materia
+* Ciclo: son un conjunto de módulos que proporcionan un título (por ejemplo "TS en Desarrollo de Aplicaciones Multiplataforma)
+* Especialidad del profesorado: nombre que recibe un grupo de profesores de un cuerpo que han superado un examen específico que les habilita para impartir un conjunto de módulos relacionados con su especialidad. 
+
+Los ciclos formativos
+---------------------
+* Son programas educativos de un máximo de dos años (aún quedan algunos de un curso)
+* El primer curso dura un año escolar entero (3 trimestres, 32 semanas)
+* El segundo curso da acceso a la Formación en Centros de Trabajo (FCT)
+* Los alumnos pueden pasar de primero a segundo si aprueban el 75% de las horas o más.
+* La diferencia principal entre ellos es la siguiente:
+	** Los de grado medio otorgan cualificaciones de nivel 2.
+	** Los de grado superior otorgan cualificaciones de nivel 3.
+
+El proceso de la programación
+-----------------------------
+* En primer lugar, al comenzar el curso, nos asignarán una serie de módulos (si estamos en FP) o de materias (si estamos en otras etapas).
+* Se necesitará en todo momento la legislación, por lo que conviene tenerla a mano.
+* La programación debe empezar situando la materia en su contexto:
+	** Profesor
+	** Etapa educativa y curso
+	** Sociología del centro
+* Se deben enumerar los objetivos de dicha materia/módulo así como los contenidos mínimos
+* Se deben 
+
+
+Herramientas para programar
+---------------------------
+
+* Las herramientas de planificación de proyectos son muy útiles en el proceso de programación (GanttProject o MS-Project).
+	** Permiten estipular las precedencias
+	** Permiten indicar tareas (unidades didácticas) que se dividen en subtareas (sesiones)
+
+* Tomaremos primero los contenidos, los dividiremos en unidades didácticas (entre 8 y 14) y repartiremos el tiempo entre esas 32 semanas (o 22 en el caso de segundo curso de ciclos)
+
+* Despues se deben tomar los 
+
